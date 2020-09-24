@@ -8,3 +8,4 @@ public class Task3 {
         System.out.println(a + 2 - a % 2);
     }
 }
+
