@@ -1,5 +1,4 @@
-package m01.s12;
-
+package tasks.src.m01.s12;
 import java.util.Scanner;
 
 public class Task3 {
@@ -9,3 +8,4 @@ public class Task3 {
         System.out.println(a + 2 - a % 2);
     }
 }
+
